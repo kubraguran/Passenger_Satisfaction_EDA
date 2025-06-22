@@ -16,3 +16,4 @@ This helps to learn more about passengers' satisfaction and the data quality.
 - Visualized data using different plots for numerical and categorical features
 
 
+# kubraguran-Passenger_Satisfaction_EDA
